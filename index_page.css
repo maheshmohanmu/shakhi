@@ -1,0 +1,46 @@
+div.sidelink{
+    padding: 0px 10px;
+    font: large;
+    font-family: sans-serif;
+    left: 10px;
+    top: 125px;
+    width: 250px;
+    position: absolute;
+}
+.login{
+    font-family: sans-serif;
+    padding: 0px;
+    top: 370px;
+    left: 590px;
+    position: absolute;
+    color: white;
+}
+
+#login_user{
+    position: absolute;
+    padding: 0px;
+    top: 380px;
+    left: 690px;
+}
+
+#login_pwd{
+    position: absolute;
+    padding: 0px;
+    top: 420px;
+    left: 690px;
+}
+#login_button{
+    position: absolute;
+    padding: 0px;
+    top: 450px;
+    left: 775px;
+}
+
+#message{
+    font-family: sans-serif;
+    padding: 0px;
+    top: 340px;
+    left: 650px;
+    position: absolute;
+    color: white;
+}
